@@ -1,0 +1,71 @@
+{
+    "name": "Pro Writing Aid",
+    "description": "Your personal writing coach. A grammar checker, style editor, and writing mentor in one package. The best writing depends on much more than just correct grammar. You need an editing tool that also highlights style issues and compares your writing to th...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1585-pro-writing-aid.jpg",
+    "tags": [
+        "acronym",
+        "grammar",
+        "have api",
+        "languages",
+        "spelling"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pro-writing-aid\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Pro Writing Aid",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1585-pro-writing-aid.jpg",
+            "humanURL": "http:\/\/prowritingaid.com\/en\/App\/API",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pro-writing-aid-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/prowritingaid.com\/en\/App\/API"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/prowritingaid.com\/en\/Blog\/Recent"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/prowritingaid.com\/en\/Blog\/Rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/prowritingaid"
+        },
+        {
+            "type": "Email",
+            "url": "hello@prowritingaid.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@ProWritingAid.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/prowritingaid"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/prowritingaid.com\/en\/App\/Purchase"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/prowritingaid"
+        }
+    ]
+}
